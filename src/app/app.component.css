@@ -1,0 +1,33 @@
+.section-heading {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 50px;
+  padding-top: 55px;
+}
+
+#about p {
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+}
+
+#contact p {
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+}
+
+#contact h3 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 35px;
+}
+
+#contact p {
+  font-family: 'Arvo', serif;
+  font-size: 25px;
+}
+
+footer {
+  margin-top: 20px;
+  background: black;
+  color: white;
+  font-family: 'Arvo', serif;
+  text-align: center;
+}

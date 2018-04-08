@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+.yanone {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: blue;
+}
+
+.jumbotron {
+  text-align: center;
+  background: url("assets/Hero-Image.jpg") no-repeat;
+}
+
+.jumbotron h1 {
+  color: white;
+  text-transform: capitalize;
+}
+
+.jumbotron p{
+  color: white;
+  background: rgb(54,53,53,0.1);
+}
+
+
+
+.arvo {
+  font-family: 'Arvo', serif;
+}
